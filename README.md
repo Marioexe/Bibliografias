@@ -120,8 +120,7 @@ Creador de algunas de las bases de la Informática Teórica. Estableció el conc
 
 # Noam Chomsky
 
-![Noam_Chomsky_portrait_2017_retouched](https://user-images.githubusercontent.com/72422120/95421797-0d3e4200-0936-11eb-88b9-87c86292d676.png)
-
+![Noam-Chomsky-2010](https://user-images.githubusercontent.com/72422120/95421875-3068f180-0936-11eb-8574-b1181f09c7c5.jpg)
 
 Avram Noam Chomsky (Filadelfia, 7 de diciembre de 1928) es un lingüista, filósofo, politólogo y activista estadounidense de origen judío. Es profesor emérito de lingüística en el Instituto Tecnológico de Massachusetts (MIT) y una de las figuras más destacadas de la lingüística del siglo xx, gracias a sus trabajos en teoría lingüística y ciencia cognitiva. También es reconocido por su activismo político, caracterizado por una fuerte crítica del capitalismo contemporáneo y de la política exterior de los Estados Unidos. Se le considera de pensamiento socialista libertario. El New York Times lo ha señalado como «el más importante de los pensadores contemporáneos».
 
