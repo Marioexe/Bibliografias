@@ -24,6 +24,8 @@ Fue un hombre que revolucionó el tratamiento a gran escala de información medi
 
 # Alan Turing 
 
+![Alan_Turing_Aged_16](https://user-images.githubusercontent.com/72422120/95420099-cb5fcc80-0932-11eb-82ad-428c9d5a942a.jpg)
+
 Alan Mathison Turing, (Paddington, Londres, 23 de junio de 1912-Wilmslow, Cheshire, 7 de junio de 1954), fue un matemático, lógico, informático teórico, criptógrafo, filósofo, biólogo teórico, maratoniano y corredor de ultradistancia británico.
 
 Es considerado uno de los padres de la ciencia de la computación y precursor de la informática moderna. Proporcionó una influyente formalización de los conceptos de algoritmo y computación: la máquina de Turing. Formuló su propia versión que hoy es ampliamente aceptada como la tesis de Church-Turing (1936).
