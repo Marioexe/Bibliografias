@@ -62,6 +62,8 @@ La Cibernética, nacida de la combinación de las matemáticas y la neurofisiolo
 
 # Claude Elwood Shannon
 
+![ClaudeShannon_MFO3807](https://user-images.githubusercontent.com/72422120/95420221-05c96980-0933-11eb-8a11-d6df117154d4.jpg)
+
 Claude Elwood Shannon (30 de abril de 1916 - 24 de febrero de 2001) fue un matemático, ingeniero eléctrico y criptógrafo estadounidense recordado como «el padre de la teoría de la información».
 
 Shannon es reconocido por haber fundado el campo de la teoría de la información con la publicación Una teoría matemática de la comunicación, que supuso un hito en 1948. Es quizás igualmente conocido por haber sentado las bases de la teoría del diseño de circuitos digitales en 1937, con apenas 21 años de edad. Mientras realizaba su maestría en el Massachusetts Institute of Technology (MIT), demostró en su tesis que las aplicaciones electrónicas de álgebra booleana podrían construir cualquier relación lógico-numérica. Shannon contribuyó asimismo al campo del criptoanálisis para la defensa de Estados Unidos durante la Segunda Guerra Mundial, con trabajos sobre el descifrado de códigos y la seguridad en las telecomunicaciones.
