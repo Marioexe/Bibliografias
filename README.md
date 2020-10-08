@@ -13,6 +13,9 @@ Su principal aporte computación fue desarrollo de una Calculadora mecánica  ca
 
 # Herman Hollerith
 
+![Hollerith](https://user-images.githubusercontent.com/72422120/95419997-92275c80-0932-11eb-8a52-a97d0fa59b0e.jpg)
+
+
 Herman Hollerith (Buffalo, Nueva York, 29 de febrero de 1860-Washington D. C., 17 de noviembre de 1929) fue un inventor que desarrolló un tabuladar electromagnético de tarjetas perforadas para ayudar en el resumen de la información y, más tarde, la contabilidad. Fue el fundador de la compañía de máquinas de tabulación que se fusionó (a través de adquisición de acciones) en 1911 con otras tres compañías para formar una quinta parte de la empresa, la Computing Tabulating Recording Company, más tarde llamada International Business Machines (IBM). Es considerado una de las figuras seminales en el desarrollo de procesamiento de datos. Su invención de la máquina de tarjetas perforadas de tabulación marcó el comienzo de la era de la semiautomáticas de procesamiento de datos de sistemas, y su concepto de que dominaba el paisaje durante casi un siglo. Está considerado como el primer informático, es decir el primero que logra el tratamiento automático de la información (Informática= Información + automática). También está dentro de los creadores de la primera computadora en el mundo.
 
 # Aportaciones :
