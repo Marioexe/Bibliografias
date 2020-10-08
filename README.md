@@ -43,6 +43,9 @@ En 1936 publicó un trabajo en el que propuso un ingenio abstracto, conocido pos
 
 # Norbert Wiener 
 
+![descarga](https://user-images.githubusercontent.com/72422120/95420139-e6cad780-0932-11eb-81c0-29a1770261c8.jpg)
+
+
 Su padre, Leo Wiener fue profesor de lenguas eslavas en la Universidad de Harvard. Norbert se educó en casa hasta los siete años, edad a la que empezó a asistir al colegio, pero durante poco tiempo. Siguió con sus estudios en casa hasta que volvió al colegio en 1903, graduándose en el instituto de Ayer en 1906.
 
 En septiembre de 1906, a la edad de once años, ingresó en la Universidad Tufts para estudiar matemáticas. Se licenció en 1909 y entró en Harvard, en donde estudió zoología, pero en 1910 se trasladó a la Universidad Cornell para emprender estudios superiores en filosofía; sin embargo, meses después, volvió a Harvard. Wiener obtuvo el doctorado en dicha universidad en 1912, con una tesis que versaba sobre lógica matemática.
