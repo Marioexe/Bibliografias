@@ -13,7 +13,7 @@ Su principal aporte computación fue desarrollo de una Calculadora mecánica  ca
 
 # Herman Hollerith
 
-
+![Hollerith](https://user-images.githubusercontent.com/72422120/95419997-92275c80-0932-11eb-8a52-a97d0fa59b0e.jpg)
 
 Herman Hollerith (Buffalo, Nueva York, 29 de febrero de 1860-Washington D. C., 17 de noviembre de 1929) fue un inventor que desarrolló un tabuladar electromagnético de tarjetas perforadas para ayudar en el resumen de la información y, más tarde, la contabilidad. Fue el fundador de la compañía de máquinas de tabulación que se fusionó (a través de adquisición de acciones) en 1911 con otras tres compañías para formar una quinta parte de la empresa, la Computing Tabulating Recording Company, más tarde llamada International Business Machines (IBM). Es considerado una de las figuras seminales en el desarrollo de procesamiento de datos. Su invención de la máquina de tarjetas perforadas de tabulación marcó el comienzo de la era de la semiautomáticas de procesamiento de datos de sistemas, y su concepto de que dominaba el paisaje durante casi un siglo. Está considerado como el primer informático, es decir el primero que logra el tratamiento automático de la información (Informática= Información + automática). También está dentro de los creadores de la primera computadora en el mundo.
 
@@ -23,6 +23,7 @@ Fue un hombre que revolucionó el tratamiento a gran escala de información medi
 
 # Alan Turing 
 
+![Alan_Turing_Aged_16](https://user-images.githubusercontent.com/72422120/95420099-cb5fcc80-0932-11eb-82ad-428c9d5a942a.jpg)
 
 Alan Mathison Turing, (Paddington, Londres, 23 de junio de 1912-Wilmslow, Cheshire, 7 de junio de 1954), fue un matemático, lógico, informático teórico, criptógrafo, filósofo, biólogo teórico, maratoniano y corredor de ultradistancia británico.
 
@@ -41,6 +42,7 @@ En 1936 publicó un trabajo en el que propuso un ingenio abstracto, conocido pos
 
 # Norbert Wiener 
 
+![descarga](https://user-images.githubusercontent.com/72422120/95420139-e6cad780-0932-11eb-81c0-29a1770261c8.jpg)
 
 
 Su padre, Leo Wiener fue profesor de lenguas eslavas en la Universidad de Harvard. Norbert se educó en casa hasta los siete años, edad a la que empezó a asistir al colegio, pero durante poco tiempo. Siguió con sus estudios en casa hasta que volvió al colegio en 1903, graduándose en el instituto de Ayer en 1906.
@@ -59,6 +61,8 @@ La Cibernética, nacida de la combinación de las matemáticas y la neurofisiolo
 
 # Claude Elwood Shannon
 
+![ClaudeShannon_MFO3807](https://user-images.githubusercontent.com/72422120/95420221-05c96980-0933-11eb-8a11-d6df117154d4.jpg)
+
 
 Claude Elwood Shannon (30 de abril de 1916 - 24 de febrero de 2001) fue un matemático, ingeniero eléctrico y criptógrafo estadounidense recordado como «el padre de la teoría de la información».
 
@@ -70,6 +74,9 @@ Empezó a trabajar sobre el problema de la eficacia de los diferentes métodos e
 
 # John Von Neumann
 
+![JohnvonNeumann-LosAlamos](https://user-images.githubusercontent.com/72422120/95420313-22fe3800-0933-11eb-8734-fd20a117534b.gif)
+
+
 John von Neumann (registrado al nacer como Neumann János Lajos; Budapest, Imperio austrohúngaro, 28 de diciembre de 1903-Washington, D. C., Estados Unidos, 8 de febrero de 1957) fue un matemático húngaro-estadounidense que realizó contribuciones fundamentales en física cuántica, análisis funcional, teoría de conjuntos, teoría de juegos, ciencias de la computación, economía, análisis numérico, cibernética, hidrodinámica, estadística y muchos otros campos. Se le considera uno de los matemáticos más importantes del siglo XX.
 
 # Aportaciones:
@@ -77,6 +84,8 @@ John von Neumann (registrado al nacer como Neumann János Lajos; Budapest, Imper
 Fue uno de los mátemáticos más importantes de la historia moderna cuyo legado incluye, entre otras aportaciones, la arquitectura de computadores y las máquinas autorreplicantes
 
 # Gordon Moore
+
+![300px-Gordon_E _Moore_2393](https://user-images.githubusercontent.com/72422120/95421639-b46ea980-0935-11eb-9583-5f48b8f2fec1.jpg)
 
 Gordon Earl Moore (San Francisco 3 de enero de 1929) es cofundador de Intel y autor de la Ley de Moore (publicada en un artículo del 19 de abril de 1965 en la revista Electronics).
 
@@ -98,6 +107,9 @@ La Ley de Moore fue escrita por el ingeniero Gordon Moore en 1965, cuando era 
 
 # Alonzo Church
 
+![220px-Alonzo_Church](https://user-images.githubusercontent.com/72422120/95421673-cb150080-0935-11eb-81d6-11bf7cb6853d.jpg)
+
+
 Matemático y lógico estadounidense creador de la base de la computación teórica. Nacido en la ciudad de Washington, se diplomó en 1924 y obtuvo su doctorado en 1927 en la Universidad de Princeton, donde ejerció como profesor entre 1929 y 1967.
 
 Su obra más conocida es el desarrollo del cálculo lambda, y su trabajo de 1936 que muestra la existencia de problemas indecidibles. Este trabajo precedió el famoso trabajo de su alumno Alan Turing sobre el problema de parada que también demostró la existencia de problemas irresolubles por dispositivos mecánicos. Luego de revisar la tesis doctoral de Turing, demostraron que el cálculo lambda y la máquina de Turing utilizada para expresar el problema de parada tenían igual poder de expresión; posteriormente demostraron que una variedad de procesos mecánicos alternos para realizar cálculos tenían poder de cómputo equivalente. Como resultado se postuló la Tesis de Church-Turing.
@@ -107,6 +119,9 @@ Su obra más conocida es el desarrollo del cálculo lambda, y su trabajo de 1936
 Creador de algunas de las bases de la Informática Teórica. Estableció el concepto de calculabilidad y su demostración de la indecidibilidad de la lógica de primer orden, conocido como Tesis de Church. Desarrolló el cálculo de conversión Lambda en 1936, que permite efectuar operaciones lógicas con variables generalizadas, demostrando la presencia de problemas indecidibles. Este resultado unido al trabajo de Turing sobre el problema de parada en la Máquina de Turing, que también demostraba la existencia de un problema irresoluble por medios mecánicos, demostraron que tenían capacidades de computo equivalentes, dando lugar a la Tesis Church-Turing. Destacan sus obras "The Calculi of Lambda-Conversion" (Cálculo de conversión Lambda) en 1941, e "Introduction to Mathematical Logic" (Introducción a la lógica matemática) en 1944.
 
 # Noam Chomsky
+
+![Uploading Noam_Chomsky_portrait_2017_retouched.png…]()
+
 
 Avram Noam Chomsky (Filadelfia, 7 de diciembre de 1928) es un lingüista, filósofo, politólogo y activista estadounidense de origen judío. Es profesor emérito de lingüística en el Instituto Tecnológico de Massachusetts (MIT) y una de las figuras más destacadas de la lingüística del siglo xx, gracias a sus trabajos en teoría lingüística y ciencia cognitiva. También es reconocido por su activismo político, caracterizado por una fuerte crítica del capitalismo contemporáneo y de la política exterior de los Estados Unidos. Se le considera de pensamiento socialista libertario. El New York Times lo ha señalado como «el más importante de los pensadores contemporáneos».
 
