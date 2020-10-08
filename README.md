@@ -3,7 +3,6 @@ Bibliografias de grandes exponentes de la computacion y del software
 
 # Charles Babbage
 
-![220px-CharlesBabbage](https://user-images.githubusercontent.com/72422120/95419906-699f6280-0932-11eb-8b3d-d66c0b5fa989.jpg)
 
 Charles Babbage (Teignmouth, Devonshire, Gran Bretaña, 26 de diciembre de 1791-Londres, 18 de octubre de 1871) fue un matemático y científico de la computación británico.1​ Diseñó y desarrolló una calculadora mecánica capaz de calcular tablas de funciones numéricas por el método de diferencias. También diseñó, pero nunca construyó, la analítica para ejecutar programas de tabulación o computación; por estos inventos se le considera como una de las primeras personas en concebir la idea de lo que hoy llamaríamos una computadora, por lo que se le considera como "El Padre de la computación". En el Museo de Ciencias de Londres se exhiben partes de sus mecanismos inconclusos. Parte de su cerebro conservado en formol se exhibe en el Royal College of Surgeons of England. Sitio en Londres.
 
@@ -13,7 +12,6 @@ Su principal aporte computación fue desarrollo de una Calculadora mecánica  ca
 
 # Herman Hollerith
 
-![Hollerith](https://user-images.githubusercontent.com/72422120/95419997-92275c80-0932-11eb-8a52-a97d0fa59b0e.jpg)
 
 
 Herman Hollerith (Buffalo, Nueva York, 29 de febrero de 1860-Washington D. C., 17 de noviembre de 1929) fue un inventor que desarrolló un tabuladar electromagnético de tarjetas perforadas para ayudar en el resumen de la información y, más tarde, la contabilidad. Fue el fundador de la compañía de máquinas de tabulación que se fusionó (a través de adquisición de acciones) en 1911 con otras tres compañías para formar una quinta parte de la empresa, la Computing Tabulating Recording Company, más tarde llamada International Business Machines (IBM). Es considerado una de las figuras seminales en el desarrollo de procesamiento de datos. Su invención de la máquina de tarjetas perforadas de tabulación marcó el comienzo de la era de la semiautomáticas de procesamiento de datos de sistemas, y su concepto de que dominaba el paisaje durante casi un siglo. Está considerado como el primer informático, es decir el primero que logra el tratamiento automático de la información (Informática= Información + automática). También está dentro de los creadores de la primera computadora en el mundo.
@@ -24,7 +22,6 @@ Fue un hombre que revolucionó el tratamiento a gran escala de información medi
 
 # Alan Turing 
 
-![Alan_Turing_Aged_16](https://user-images.githubusercontent.com/72422120/95420099-cb5fcc80-0932-11eb-82ad-428c9d5a942a.jpg)
 
 Alan Mathison Turing, (Paddington, Londres, 23 de junio de 1912-Wilmslow, Cheshire, 7 de junio de 1954), fue un matemático, lógico, informático teórico, criptógrafo, filósofo, biólogo teórico, maratoniano y corredor de ultradistancia británico.
 
@@ -43,7 +40,6 @@ En 1936 publicó un trabajo en el que propuso un ingenio abstracto, conocido pos
 
 # Norbert Wiener 
 
-![descarga](https://user-images.githubusercontent.com/72422120/95420139-e6cad780-0932-11eb-81c0-29a1770261c8.jpg)
 
 
 Su padre, Leo Wiener fue profesor de lenguas eslavas en la Universidad de Harvard. Norbert se educó en casa hasta los siete años, edad a la que empezó a asistir al colegio, pero durante poco tiempo. Siguió con sus estudios en casa hasta que volvió al colegio en 1903, graduándose en el instituto de Ayer en 1906.
@@ -62,7 +58,6 @@ La Cibernética, nacida de la combinación de las matemáticas y la neurofisiolo
 
 # Claude Elwood Shannon
 
-![ClaudeShannon_MFO3807](https://user-images.githubusercontent.com/72422120/95420221-05c96980-0933-11eb-8a11-d6df117154d4.jpg)
 
 Claude Elwood Shannon (30 de abril de 1916 - 24 de febrero de 2001) fue un matemático, ingeniero eléctrico y criptógrafo estadounidense recordado como «el padre de la teoría de la información».
 
