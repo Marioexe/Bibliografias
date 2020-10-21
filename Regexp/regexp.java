@@ -60,7 +60,7 @@ public class regexp {
         do {
             d[4] = JOptionPane.showInputDialog(
                     "Ingresa tu nombre completo(iniciales con mayusculas Nombre,Appellido Paterno, Apellido Materno)");
-            if (d[4].matches("^[A-Z].[a-z]* +[A-Z].[a-z]* +[A-Z].[a-z]*")) {
+            if (d[4].matches("^[A-Z].[a-z]* [A-Z].[a-z]* [A-Z].[a-z]*")) {
                 i = true;
             } else {
                 JOptionPane.showMessageDialog(null,
