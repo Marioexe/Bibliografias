@@ -1,6 +1,6 @@
 # Complejidad Logaritmica
 
- /**Algoritmo de orden constante O(1)**/
+ # Algoritmo de orden constante O(1) 
 Es una operación simple, unitaria, por ejemplo, asignar un valor a una variable, añadir a un vector, etc. Se dice que un algoritmo es tiempo constante (también escrito como tiempo O(1)) si el valor de T(n) está limitado por un valor que no depende del tamaño de la entrada Si T(n) es O(cualquier valor constante) se indica en notación estándar como T(n) siendo O(1).
 
 # Algoritmo de orden logaritmico O(Log* n)
