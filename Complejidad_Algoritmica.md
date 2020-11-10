@@ -6,13 +6,13 @@ Es una operación simple, unitaria, por ejemplo, asignar un valor a una variable
 # Algoritmo de orden logaritmico O(Log* n)
 
 El análisis del método de la sacudida y en general el de los métodos mejorados y logarítmicos son muy complejos. Para el análisis de este método es necesario tener en cuenta tres factores que afectan directamente al tiempo de ejecución del algoritmo: las comparaciones entre las claves, los intercambios entre las mismas y las pasadas que se realizan. Encontrar fórmulas que permitan calcular cada uno de estos factores es una tarea muy difícil de realizar
-/**Ejemplo**/
+# Ejemplo
 La búsqueda dentro de un diccionario. Considere un diccionario D que contiene n entradas, ordenadas por orden alfabético. Suponemos que, para 1 ≤ k ≤ n, uno puede acceder a la entrada k del diccionario en un tiempo constante. Usemos D(k) para denotar la k-ésima entrada. Bajo estas hipótesis, la prueba de si una palabra w está en el diccionario se puede hacer en tiempo logarítmico
 # Algoritmo de orden lineal O(n)
 Por ordenar se entiende el proceso de reorganizar un conjunto de objetos en una cierta secuencia de acuerdo a un criterio especificado. En general, el objetivo de este proceso es facilitar la posterior búsqueda de elementos en el conjunto ordenado.
 
 Existen múltiples ejemplos reales de conjuntos que requieren ser ordenados: la guía telefónica, índices de libros, ficheros de bibliotecas, diccionarios, ficheros de diverso tipo en oficinas, actas de exámenes, etc.
-/**Ejemplo**/
+# Ejemplo
 Un procedimiento que suma todos los elementos de una lista requiere un tiempo proporcional a la longitud de la lista, si el tiempo de adición es constante o, al menos, está limitado por una constante.
 
 # Ejemplo de Algoritmo de orden nlogn O(n log* n)
@@ -22,7 +22,7 @@ Su versión aleatoria, tiene un tiempo de ejecución que es O(n log n) en espera
 
 # Algoritmo de orden cuadrático O(n2)
 Aplicable a bucles anidados, el primer bucle se ejecuta n veces y el segundo (interno) también n veces. Aparece cuando tenemos que enumerar todas las parejas posibles de elementos de un conjunto.
-/**Ejemplo**/
+# Ejemplo
 Una complejidad cuadrática (O(n^2)) si para un dato necesitamos 2 operaciones, para 2 datos vamos a necesitar 4 operaciones, para 3 datos 9 operaciones y así sucesivamente.
 
 # Algoritmo de orden polinomial O(n3)
